@@ -5,3 +5,14 @@
 *.vcxproj
 *.filters
 *.user
+/temaSecventeBac/.vs/temaSecventeBac/FileContentIndex/303e54ba-acbe-43b5-80ab-7c2518ea32eb.vsidx
+/temaSecventeBac/.vs/temaSecventeBac/FileContentIndex/a7a0539b-cf41-4053-9047-4023fc83c965.vsidx
+/temaSecventeBac/.vs/temaSecventeBac/FileContentIndex/cc274075-b72c-45ef-9ddd-c192acd15386.vsidx
+/temaSecventeBac/.vs/temaSecventeBac/FileContentIndex/e57cb2f7-884a-40ca-a532-9031e1d43adf.vsidx
+*.lock
+*.db-shm
+*.db-wal
+*.opendb
+*.vsidx
+*.vsidx
+*.vsidx
