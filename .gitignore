@@ -16,3 +16,17 @@
 *.vsidx
 *.vsidx
 *.vsidx
+*.recipe
+*.ilk
+*.log
+*.obj
+*.tlog
+*.tlog
+*.tlog
+*.tlog
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.exe
+*.pdb

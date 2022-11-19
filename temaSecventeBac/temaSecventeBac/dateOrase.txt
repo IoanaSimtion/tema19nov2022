@@ -1,0 +1,5 @@
+4
+Bucuresti Romania 1898425 240
+NewYork SUA 8804190 783.8
+Madrid Spania 3223334 604.31
+Zurich Elvetia 402762 87.88
